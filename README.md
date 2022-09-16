@@ -45,4 +45,5 @@ The Map shows us that a majority of the trips people tend to end it at the south
 * Target market should be males needing transportation to work and weekend activities and push for subscribing to the services.
 
 ### Recommendations
-* 
+* Adding the Start Location by Gender helped showed us where the majority of our target market starts their Journey and that allows to see where we should target advertising.
+* The end Location helps shows us the distance most people travel and where we get a high volume of people for when they end their journey.
